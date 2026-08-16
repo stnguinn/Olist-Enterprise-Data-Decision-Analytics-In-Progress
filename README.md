@@ -210,7 +210,7 @@ The repository structure may evolve as the project progresses.
 
 Portfolio Release 1.0
 
-The first recruiter-ready release will focus on five deliverables:
+The first release will focus on five deliverables:
 
 Data Management Architecture
 Raw, staging, and clean-data workflow
@@ -283,4 +283,4 @@ M.S. Data Analytics
 
 Data & Decision Analytics | Enterprise Data Management | SQL | Python | PostgreSQL | Business Intelligence | AI-Augmented Analytics
 
-LinkedIn
+
